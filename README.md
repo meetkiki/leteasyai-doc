@@ -1,2 +1,2 @@
 # leteasyai-doc
-leteasyai 仓库
+leteasyai 文档 仓库
