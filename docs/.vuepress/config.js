@@ -1,6 +1,6 @@
 module.exports = {
     themeConfig: {
-        logo: '/public/img/leteasyAi.svg',
+        logo: './img/leteasyAi.svg',
         //侧边拦
         sidebar: [
             {
